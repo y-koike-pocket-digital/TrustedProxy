@@ -1,5 +1,5 @@
 {
-    "name": "fideloper/proxy",
+    "name": "pocket-digital/proxy",
     "description": "Set trusted proxies for Laravel",
     "keywords": ["proxy", "trusted proxy", "load balancing"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Chris Fidao",
             "email": "fideloper@gmail.com"
+        },
+        {
+            "name": "Yoshitsugu Koike",
+            "email": "y.koike@pocket-digital.com"
         }
     ],
     "require": {
